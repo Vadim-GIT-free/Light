@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Фонарик</string>
+    <string name="btLightOn">Включение</string>
+    <string name="btLightOff">Выключить</string>
+    <string name="btSwitch">Вкл\Выкл фонарик</string>
+    <string name="error">ERROR</string>
+    <string name="work">Work</string>
+</resources>
